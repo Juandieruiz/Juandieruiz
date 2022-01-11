@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/77864382/146993182-0b1dc1a6-7b2f-4e53-bd23-7d83933752a1.png" />
+   <img align="center" width="200" src="https://lh3.googleusercontent.com/a-/AOh14GhESivTPOGlZXYP2JD1t7DTVtLkMN3YJeMFfHW6=s288-p-rw-no" />
    <h3 align="center">¡Hey 👋! Soy Juan Diego 👨🏻‍💻</h3>
 </p>
 
