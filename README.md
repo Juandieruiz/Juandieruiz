@@ -1,5 +1,23 @@
-### Hi there, I'm [Juan Diego](https://allmylinks.com/juandieruiz)  ![image](https://user-images.githubusercontent.com/77864382/146993182-0b1dc1a6-7b2f-4e53-bd23-7d83933752a1.png).
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/77864382/146993182-0b1dc1a6-7b2f-4e53-bd23-7d83933752a1.png" />
+   <h3 align="center">¡Hey 👋! Soy [Juan Diego](https://allmylinks.com/juandieruiz) 👨🏻‍💻</h3>
+</p>
 
+<p align="center">Soy <strong>Desarrollador Full Stack</strong>.<br>¡Revisa mi contenido 👇!</p>
+<p align="center">
+   <a href="https://twitch.tv/juandieruiz" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="juandieruiz" height="28px" width="28px" />
+  </a>
+   <a href="https://youtube.com/juandieruiz" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="juandieruiz" height="28px" width="28px" />
+  </a>
+  <a href="https://instagram.com/juandieruiz" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juandieruiz" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/juandieruiz" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juandieruiz" height="28px" width="28px" />
+  </a>
+</p>
 ![]()
 
 I am a Superior Technician of Telecommunications and IT,
