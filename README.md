@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/77864382/146993182-0b1dc1a6-7b2f-4e53-bd23-7d83933752a1.png" />
-   <h3 align="center">¡Hey 👋! Soy [Juan Diego](https://allmylinks.com/juandieruiz) 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Soy Juan Diego 👨🏻‍💻</h3>
 </p>
 
 <p align="center">Soy <strong>Desarrollador Full Stack</strong>.<br>¡Revisa mi contenido 👇!</p>
