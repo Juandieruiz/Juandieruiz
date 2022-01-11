@@ -1,14 +1,14 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://lh3.googleusercontent.com/a-/AOh14GhESivTPOGlZXYP2JD1t7DTVtLkMN3YJeMFfHW6=s288-p-rw-no" />
-   <h3 align="center">¡Hey 👋! Soy Juan Diego 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! I'm Juan Diego 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Full Stack</strong>.<br>¡Revisa mi contenido 👇!</p>
+<p align="center">I am a <strong>Software Developer Full Stack</strong>.<br>¡Look at my content 👇!</p>
 <p align="center">
    <a href="https://twitch.tv/juandieruiz" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="juandieruiz" height="28px" width="28px" />
   </a>
-   <a href="https://youtube.com/juandieruiz" target="blank" style='margin-right:4px'>
+   <a href="https://www.youtube.com/channel/UCSWB5sDPEnFsF-ya5QlzGfA" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="juandieruiz" height="28px" width="28px" />
   </a>
   <a href="https://instagram.com/juandieruiz" target="blank">
@@ -18,7 +18,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juandieruiz" height="28px" width="28px" />
   </a>
 </p>
-![]()
+
 
 I am a Superior Technician of Telecommunications and IT,
 future software engineer and current Software Developer at Ingenia a Babel Company
