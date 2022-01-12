@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center" width="300">
    <img align="center" width="200" src="https://lh3.googleusercontent.com/a-/AOh14GhESivTPOGlZXYP2JD1t7DTVtLkMN3YJeMFfHW6=s288-p-rw-no" />
    <h3 align="center">¡Hey 👋! I'm Juan Diego 👨🏻‍💻</h3>
@@ -5,17 +6,26 @@
 
 <p align="center">I am a <strong>Software Developer Full Stack</strong>.<br>¡Look at my content 👇!</p>
 <p align="center">
-   <a href="https://twitch.tv/juandieruiz" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="juandieruiz" height="28px" width="28px" />
-  </a>
+   
    <a href="https://www.youtube.com/channel/UCSWB5sDPEnFsF-ya5QlzGfA" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="juandieruiz" height="28px" width="28px" />
+    <img align="center" src="https://user-images.githubusercontent.com/77864382/149188366-e0283ed4-6ff3-4a79-9ae0-2ce186edd791.png" alt="juandieruiz Youtube Profile" height="28px" width="28px" />
+  </a>
+     <a href="https://twitch.tv/juandieruiz" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://user-images.githubusercontent.com/77864382/149185424-c3a54466-dc79-4e2a-b93c-204317a36030.png" alt="juandieruiz Twitch Profile" height="28px" width="28px" />
+  </a>
+  </a>
+   
+   <a href="https://medium.com/@juandieruiz">
+    <img align="center" src="https://user-images.githubusercontent.com/77864382/149187168-e7301662-44a0-4f1b-9fe4-d8667c78aa8e.png" alt="juandieruiz Medium Profile" height="28px" width="28px">
+  </a>    
+   
+   <a href="https://www.linkedin.com/in/juandieruiz/">                                                                                               
+       <img align="center" src="https://user-images.githubusercontent.com/77864382/149187329-318971c0-a7fe-4cf8-b8be-9083bbaae187.png" alt="juandieruiz Linkedin Profile" height="28px" width="28px">
   </a>
   <a href="https://instagram.com/juandieruiz" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juandieruiz" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/juandieruiz" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juandieruiz" height="28px" width="28px" />
+    <img align="center" src="https://user-images.githubusercontent.com/77864382/149185934-4a7f4efa-380c-4d9a-af6a-eb6785be593d.png" alt="juandieruiz Instagram Profile" height="33px" width="33px" />
+   
+   
   </a>
 </p>
 
@@ -29,23 +39,11 @@ Some technologies I enjoy working with include Angular, Java, MeanStack, (JavaSc
 In 2021, I trained in a self-taught way, did my first bootcamp and found work as a Programmer, I was a semi-champion of HackTheSystem 🌟 based on my participation in the technology community. I like creating content on some platforms.
 <br><br><br><br>
 
-## Find me around the web 🌎: <a href="https://github.com/Juandieruiz"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/77864382/146990557-26de07f2-0886-42da-8ed5-5a44634ad906.jpg"></a>
- Learning in public on <a href="https://www.twitch.tv/juandieruiz">Twitch</a> or <a href="https://www.instagram.com/juandieruiz/">Instagram</a> 📹 ✍🏾 <br>
- Find me on your favorite social network <a href="https://allmylinks.com/juandieruiz"> My Links</a> 🏓 <br>
- Sharing updates on <a href="https://www.linkedin.com/in/juandieruiz/">LinkedIn</a> 💼<br>
-
+## Software Skills 🌎: <a href="https://github.com/Juandieruiz"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/77864382/146990557-26de07f2-0886-42da-8ed5-5a44634ad906.jpg"></a>
+ - HTML | CSS | JavaScript | Typescript | NodeJS | Angular | Firebase | Java | SpringBoot | Databases |
+   <hr>
+   <a href="https://allmylinks.com/juandieruiz">
+    <img align="center" src="https://user-images.githubusercontent.com/77864382/149189265-c2c7a823-b188-4048-8c0f-741ef1c92912.png" alt="Juan Diego Gómez Ruiz's all My Links" height="100" width="100">
+  </a> 
+  <hr>
 **⭐️ From [Juandieruiz](https://github.com/juandieruiz)**
-<!--
-**Juandieruiz/Juandieruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
