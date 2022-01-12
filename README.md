@@ -40,10 +40,11 @@ In 2021, I trained in a self-taught way, did my first bootcamp and found work as
 <br><br><br><br>
 
 ## Software Skills 🌎: <a href="https://github.com/Juandieruiz"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/77864382/146990557-26de07f2-0886-42da-8ed5-5a44634ad906.jpg"></a>
- - HTML | CSS | JavaScript | Typescript | NodeJS | Angular | Firebase | Java | SpringBoot | Databases |
-   <hr>
-   <a href="https://allmylinks.com/juandieruiz">
-    <img align="center" src="https://user-images.githubusercontent.com/77864382/149189265-c2c7a823-b188-4048-8c0f-741ef1c92912.png" alt="Juan Diego Gómez Ruiz's all My Links" height="100" width="100">
-  </a> 
+ - Soon...
+  <br>
+  <br>
   <hr>
-**⭐️ From [Juandieruiz](https://github.com/juandieruiz)**
+  
+  
+
+**⭐️ All My Links [Juandieruiz](https://allmylinks.com/juandieruiz)**
