@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center" width="300">
-   <img align="center" width="200" src="https://lh3.googleusercontent.com/a-/AOh14GhESivTPOGlZXYP2JD1t7DTVtLkMN3YJeMFfHW6=s288-p-rw-no" />
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/77864382/146990557-26de07f2-0886-42da-8ed5-5a44634ad906.jpg" />
    <h3 align="center">¡Hey 👋! I'm Juan Diego 👨🏻‍💻</h3>
 </p>
 
@@ -39,12 +39,12 @@ Some technologies I enjoy working with include Angular, Java, MeanStack, (JavaSc
 In 2021, I trained in a self-taught way, did my first bootcamp and found work as a Programmer, I was a semi-champion of HackTheSystem 🌟 based on my participation in the technology community. I like creating content on some platforms.
 <br><br><br><br>
 
-## Software Skills 🌎: <a href="https://github.com/Juandieruiz"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/77864382/146990557-26de07f2-0886-42da-8ed5-5a44634ad906.jpg"></a>
+<!-- ## Software Skills 🌎: <a href="https://github.com/Juandieruiz"><img align="left" width="150" height="150" src="https://lh3.googleusercontent.com/a-/AOh14GhESivTPOGlZXYP2JD1t7DTVtLkMN3YJeMFfHW6=s288-p-rw-no"></a>
  - Soon...
   <br>
   <br>
   <hr>
-  
+   -->
   
 
 **⭐️ All My Links [Juandieruiz](https://allmylinks.com/juandieruiz)**
