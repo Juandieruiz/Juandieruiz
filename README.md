@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center" width="300">
    <img align="center" width="1000" src="https://user-images.githubusercontent.com/77864382/154264305-a61aa97e-f211-44d1-8d8a-223a6fcf2865.png" />
-   <h3 align="center">¡Hey 👋! I'm Juan Diego 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! I'm Juan Diego 👨🏻‍💻</h3> 
 </p>
 
 <p align="center">I am a <strong>Software Developer Full Stack</strong>.<br>¡Look at my content 👇!</p>
@@ -30,7 +30,7 @@
 </p>
 
 
-I am a Superior Technician of Telecommunications and IT,
+Welcome I am a Superior Technician of Telecommunications and IT,
 future software engineer and current Software Developer at Ingenia a Babel Company
 
 I like to learn new technologies, contribute to open source projects, help colleagues and create technologies to lift people, I am starting to build a community.
@@ -38,7 +38,7 @@ I like to learn new technologies, contribute to open source projects, help colle
 Some technologies I enjoy working with include Angular, Java, MeanStack, (JavaScript, API + Markup), and some databases.
 In 2021, I trained in a self-taught way, did my first bootcamp and found work as a Programmer, I was a semi-champion of HackTheSystem 🌟 based on my participation in the technology community. I like creating content on some platforms.
 <br><br><br><br>
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=juandieruiz)
 <!-- ## Software Skills 🌎: <a href="https://github.com/Juandieruiz"><img align="left" width="150" height="150" src="https://lh3.googleusercontent.com/a-/AOh14GhESivTPOGlZXYP2JD1t7DTVtLkMN3YJeMFfHW6=s288-p-rw-no"></a>
  - Soon...
   <br>
