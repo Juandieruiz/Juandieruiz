@@ -38,6 +38,7 @@ I like to learn new technologies, contribute to open source projects, help colle
 Some technologies I enjoy working with include Angular, Java, MeanStack, (JavaScript, API + Markup), and some databases.
 In 2021, I trained in a self-taught way, did my first bootcamp and found work as a Programmer, I was a semi-champion of HackTheSystem 🌟 based on my participation in the technology community. I like creating content on some platforms.
 <br><br><br><br>
+<img src="https://user-images.githubusercontent.com/77864382/161262555-dbd08b93-51ac-4351-b428-c32d4be4f6de.png" width="100px" >
 ![Profile View Counter](https://komarev.com/ghpvc/?username=juandieruiz)
 <!-- ## Software Skills 🌎: <a href="https://github.com/Juandieruiz"><img align="left" width="150" height="150" src="https://lh3.googleusercontent.com/a-/AOh14GhESivTPOGlZXYP2JD1t7DTVtLkMN3YJeMFfHW6=s288-p-rw-no"></a>
  - Soon...
