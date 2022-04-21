@@ -4,7 +4,8 @@
    <h3 align="center">¡Hey 👋! I'm Juan Diego 👨🏻‍💻</h3> 
 </p>
 
-<p align="center">I am a <strong>Software Developer Full Stack</strong>.<br>¡Look at my content 👇!</p>
+
+<p align="center">I am <strong>Software Developer Full Stack</strong>.<br>¡Look at my content 👇!</p> 
 <p align="center">
    
    <a href="https://www.youtube.com/channel/UCSWB5sDPEnFsF-ya5QlzGfA" target="blank" style='margin-right:4px'>
@@ -29,23 +30,19 @@
   </a>
 </p>
 
+<br>
 
-Welcome I am a Superior Technician of Telecommunications and IT,
-future software engineer and current Software Developer at Ingenia a Babel Company
+- 🚀 I'm Superior Technician of Telecommunications and IT
+- 👨🏻‍💻 Software Engineer FullStack & DevOps, I like to learn new technologies.
+- 📙 *Author of [Como ser Programador](https://comoserprogramador.com)*
+- 🟣 *Livecoder Junior Streamer* on [Twitch](https://twitch.tv/juandieruiz)
+- 🏅 *[SemiChampion in HackTheSystem](https://hackthesystem.io/) (Hackathon to create an application to learn)*
+- 🤝🏻 I contribute to open source projects, I have created projects for *[Esero](https://esero.es/)* and *[Campus 42](https://www.fundaciontelefonica.com/empleabilidad/campus-42/)* to motivate children to adults to enter the technology sector, telling how it changed my life.
+- 🎬 Based on my involvement in the tech community. I like to create content on some platforms.
+- *⭐️ All My Links [Juandieruiz](https://allmylinks.com/juandieruiz)*
 
-I like to learn new technologies, contribute to open source projects, help colleagues and create technologies to lift people, I am starting to build a community.
+<br>
 
-Some technologies I enjoy working with include Angular, Java, MeanStack, (JavaScript, API + Markup), and some databases.
-In 2021, I trained in a self-taught way, did my first bootcamp and found work as a Programmer, I was a semi-champion of HackTheSystem 🌟 based on my participation in the technology community. I like creating content on some platforms.
-<br><br><br><br>
-<img src="https://user-images.githubusercontent.com/77864382/161262555-dbd08b93-51ac-4351-b428-c32d4be4f6de.png" width="100px" >
+<img align="right" src="https://user-images.githubusercontent.com/77864382/161262555-dbd08b93-51ac-4351-b428-c32d4be4f6de.png" width="100px">
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=juandieruiz)
-<!-- ## Software Skills 🌎: <a href="https://github.com/Juandieruiz"><img align="left" width="150" height="150" src="https://lh3.googleusercontent.com/a-/AOh14GhESivTPOGlZXYP2JD1t7DTVtLkMN3YJeMFfHW6=s288-p-rw-no"></a>
- - Soon...
-  <br>
-  <br>
-  <hr>
-   -->
-  
-
-**⭐️ All My Links [Juandieruiz](https://allmylinks.com/juandieruiz)**
