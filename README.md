@@ -30,9 +30,9 @@
   </a>
 </p>
 
-<br>
+### About me
 
-- 🚀 I'm Superior Technician of Telecommunications and IT
+- 🚀 I'm Superior Technician of Telecommunications and IT.
 - 👨🏻‍💻 Software Engineer FullStack & DevOps, I like to learn new technologies.
 - 📙 *Author of [Como ser Programador](https://comoserprogramador.com)*
 - 🟣 *Livecoder Junior Streamer* on [Twitch](https://twitch.tv/juandieruiz)
