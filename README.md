@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center" width="300">
-   <img align="center" width="1000" src="https://user-images.githubusercontent.com/77864382/154264305-a61aa97e-f211-44d1-8d8a-223a6fcf2865.png" />
+   <img align="center" width="1000" src="https://user-images.githubusercontent.com/77864382/170018548-f3ea300a-92ff-4ca2-8cca-415b86f365f5.png" />
    <h3 align="center">¡Hey 👋! I'm Juan Diego 👨🏻‍💻</h3> 
 </p>
 
