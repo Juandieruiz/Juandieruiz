@@ -34,6 +34,7 @@
 
 - 🚀 I'm Superior Technician of Telecommunications and IT.
 - 👨🏻‍💻 Software Engineer FullStack & DevOps, I like to learn new technologies.
+- 🎤 Speaker & Coach in Fundacion Talentos Jovenes de Colombia
 - 📙 *Author of [Como ser Programador](https://comoserprogramador.com)*
 - 🟣 *Livecoder Junior Streamer* on [Twitch](https://twitch.tv/juandieruiz)
 - 🏅 *[SemiChampion in HackTheSystem](https://hackthesystem.io/) (Hackathon to create an application to learn)*
