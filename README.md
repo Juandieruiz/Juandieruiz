@@ -45,5 +45,6 @@
 <br>
 
 <img align="right" src="https://user-images.githubusercontent.com/77864382/161262555-dbd08b93-51ac-4351-b428-c32d4be4f6de.png" width="100px">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandieruiz&layout=compact&langs_count=16&theme=light"/>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=juandieruiz)
